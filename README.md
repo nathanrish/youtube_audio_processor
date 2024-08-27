@@ -33,7 +33,7 @@ youtube_audio_processor/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/youtube_audio_processor.git
+   git clone https://github.com/nathanrish/youtube_audio_processor.git
    cd youtube_audio_processor
    ```
 
