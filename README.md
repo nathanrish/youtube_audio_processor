@@ -51,6 +51,12 @@ youtube_audio_processor/
    ```bash
    pip install -r requirements.txt
    ```
+   Install ffmpeg
+   Note: ffmpeg is required for audio processing. Make sure to install it separately:
+
+   On macOS: ```brew install ffmpeg```
+   On Ubuntu/Linux: ```sudo apt install ffmpeg```
+   On Windows: Download from ffmpeg.org and add it to your system PATH.
 
 ## Configuration
 
